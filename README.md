@@ -43,4 +43,5 @@ Testira se promjena valute u odabranu valutu (Euro), prijava za obilazak određe
 ## Dodatno
 - Sleep metoda korištena isključivo vizualno za lakšeg praćenja izvođenja testa te se inače ne preporučuje jer namjerno usporava njegovo izvršavanje.
 - Wait metoda za čekanje prikaza određenog dijela stranica kako bi osigurali valjanost testa.
-- Testiranje je moguće izvršiti na 3 različita preglednika (*Google Chrome, Microsoft Edge* i *Mozilla Firefox*). Treba zakomentirati označene dijelove za preglednike koji se ne koriste i odkomentirati za onaj koji se koristi .
+- Testiranje je moguće izvršiti na 3 različita preglednika (*Google Chrome, Microsoft Edge* i *Mozilla Firefox*). Treba zakomentirati označene dijelove za preglednike koji se ne koriste i odkomentirati za onaj koji se koristi.
+- *index.html* datoteka predsatvalja TestNG izvještaj testiranja.
