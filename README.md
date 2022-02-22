@@ -1,5 +1,5 @@
 # <h1 align="center">Radni okvir za automatsko testiranje mrežne stranice</h1>
-Ovaj radni okvir je napravljen za automatsko testiranje jednostavne mrežne stranice za [putovanje](https://www.phptravels.net/). Napisan je u Intellij radnom okruženju koristeći java programski jezik. Korišten je Maven alat zajedno sa Selenium podrškom za automatizaciju mrežnog preglednika. 
+Ovaj radni okvir je napravljen za automatsko testiranje jednostavne mrežne stranice za [putovanje](https://www.phptravels.net/). Napisan je u Intellij radnom okruženju koristeći java programski jezik. Korišten je Maven alat zajedno sa Selenium podrškom za automatizaciju mrežnog preglednika i TestNG okvir za testiranje. 
 
 ## Način korištenja 
 
