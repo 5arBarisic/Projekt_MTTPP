@@ -5,7 +5,7 @@ Ovaj radni okvir je napravljen za automatsko testiranje jednostavne mrežne stra
 
 1. Skinuti i instalirati [Intellij](https://www.jetbrains.com/idea/download/#section=windows) radno okruženje.
 
-2. Skinuti *project* direktorij i učitati ju pomoću Intellij-a.
+2. Skinuti *project* direktorij i učitati ga pomoću Intellij-a.
 
 3. Otići na *pom.xml* datoteku i pritisnuti Ctrl+Shift+O kako bi Maven skinuo i učitao sve verzije alata koje su korištene.
 
